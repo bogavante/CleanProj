@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-//changed manually in gitub
+//changed manually in github
 
 public class BackgroundParallax : MonoBehaviour
 {
