@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+//changed manually in gitub
 
 public class BackgroundParallax : MonoBehaviour
 {
